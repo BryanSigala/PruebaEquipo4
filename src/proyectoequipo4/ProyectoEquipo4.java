@@ -17,6 +17,7 @@ public class ProyectoEquipo4 {
         System.out.println("Hola soy Bryan");
         System.out.println("Hola soy Tania");
         System.out.println("Hola soy Cris");
+        System.out.println("Hola soy Dianelly");
     }
     
 }
